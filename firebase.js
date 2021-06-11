@@ -6,7 +6,7 @@ const firebaseConfig = {
   projectId: "whatsapp-efe64",
   storageBucket: "whatsapp-efe64.appspot.com",
   messagingSenderId: "726763955330",
-  appId: "1:726763955330:web:50499ad11eef66e59f409b",
+  appId: "1:726763955330:web:50499ad11eef66e59f409b"
 };
 
 const app = !firebase.apps.length
