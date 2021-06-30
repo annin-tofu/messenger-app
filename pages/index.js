@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Whatsapp</title>
+        <title>Messenger-App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

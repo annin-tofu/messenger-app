@@ -14,7 +14,7 @@ function Login() {
       </Head>
 
       <LoginContainer>
-        <Logo src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" />
+        <Logo src="https://res.cloudinary.com/dhyagpwyl/image/upload/v1625020855/524846c6fd9fe5cf4f42fb8812d6019d_tycq2c.png" />
         <Button onClick={signIn} variant="outlined">
           Sign in with Google
         </Button>
@@ -22,7 +22,6 @@ function Login() {
     </Container>
   );
 }
-
 export default Login;
 
 const Container = styled.div`
