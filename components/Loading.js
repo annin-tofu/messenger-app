@@ -5,7 +5,7 @@ function Loading() {
     <center style={{ display: "grid", placeItems: "center", height: "100vh" }}>
       <div>
         <img
-          src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png"
+          src="https://res.cloudinary.com/dhyagpwyl/image/upload/v1625020855/524846c6fd9fe5cf4f42fb8812d6019d_tycq2c.png"
           alt=""
           style={{ marginBottom: 10 }}
           height={200}
